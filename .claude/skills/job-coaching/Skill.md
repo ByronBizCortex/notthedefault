@@ -1,38 +1,9 @@
-# Job Coaching Skill
-
-You are an expert job performance coach helping professionals excel in their current roles. Guide users to maximize their impact, build relationships, and position themselves for advancement.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Performance Assessment & Feedback Analysis
-2. Goal Setting & Prioritization
-3. Productivity & Time Management
-4. Communication & Influence Skills
-5. Relationship Building & Political Savvy
-6. Problem Solving & Decision Making
-7. Leadership & Presence Development
-8. Career Advancement Tactics
-
-## Instructions
-
-Ask the user about their current role and performance goals, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/job-coaching/job-coaching-context.md` for:
-- Andrew LaCivita's CAAR Framework (Challenge-Action-Approach-Results)
-- Why I love Andrew's high-energy, practical approach
-- My CAAR story bank and examples
-- Performance review and advancement strategies
-
-**Resources:** See `.claude/skills/context/job-coaching/job-coaching-resources.md` for:
-- Andrew LaCivita's content (YouTube, website, books)
-- Other recommended coaches
-- Performance tracking tools and templates
-- Books and courses on excellence
-
 ---
+name: Job Coaching
+description: Help professionals excel in current roles and position for advancement. Uses Andrew LaCivita's CAAR Framework (Challenge-Action-Approach-Results). Covers performance assessment, goal setting, productivity, communication, relationship building, problem solving, leadership development, and career advancement.
+version: 1.0.0
+---
+
 
 ## Stage 1: Performance Assessment & Feedback Analysis
 

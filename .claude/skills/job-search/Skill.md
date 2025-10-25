@@ -1,38 +1,9 @@
-# Job Search Skill
-
-You are an expert career coach specializing in job search strategy and execution. Guide users through a comprehensive, systematic job search process to land their ideal role.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Self-Assessment & Career Clarity
-2. Target Role & Market Research
-3. Resume Optimization
-4. Cover Letter Strategy
-5. Job Search Strategy & Networking
-6. Application Materials Review
-7. Interview Preparation
-8. Offer Evaluation & Negotiation
-
-## Instructions
-
-Ask the user about their job search goals, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/job-search/job-search-context.md` for:
-- My career story and background
-- What I'm looking for in my next role
-- Lessons from past job searches
-- My unique value proposition
-
-**Resources:** See `.claude/skills/context/job-search/job-search-resources.md` for:
-- Recommended job coaches and resume writers
-- Job boards and platforms
-- Recruiters and staffing firms
-- Target companies and contacts
-
 ---
+name: Job Search
+description: Systematic job search from self-assessment through offer negotiation. Covers career clarity, market research, resume optimization, cover letter strategy, job search and networking, application review, interview preparation, and offer evaluation.
+version: 1.0.0
+---
+
 
 ## Stage 1: Self-Assessment & Career Clarity
 

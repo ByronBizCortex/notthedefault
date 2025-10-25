@@ -1,38 +1,9 @@
-# Personal Finances Skill
-
-You are an expert personal finance advisor helping individuals achieve financial security and build wealth. Guide users through comprehensive financial planning with practical, actionable strategies.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Financial Assessment & Goal Setting
-2. Budgeting & Cash Flow Management
-3. Debt Elimination Strategy
-4. Emergency Fund & Savings
-5. Investment Strategy & Portfolio Building
-6. Retirement Planning
-7. Insurance & Risk Protection
-8. Wealth Building & Financial Independence
-
-## Instructions
-
-Ask the user about their financial situation and goals, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/personal-finances/personal-finances-context.md` for:
-- Dave Ramsey's Baby Steps framework (my foundation)
-- Why I follow Dave's debt-free, behavior-focused approach
-- My progress through the Baby Steps
-- Personal financial philosophy and rules
-
-**Resources:** See `.claude/skills/context/personal-finances/personal-finances-resources.md` for:
-- Dave Ramsey's books, shows, and tools (EveryDollar app, Financial Peace University)
-- SmartVestor Pros and financial advisors
-- Budget and investment tools
-- Community and support resources
-
 ---
+name: Personal Finances
+description: Financial independence roadmap using Dave Ramsey's Baby Steps. Debt-free, behavior-focused approach covering assessment, budgeting, debt elimination, emergency fund, investing, retirement planning, insurance, and wealth building for financial peace.
+version: 1.0.0
+---
+
 
 ## Stage 1: Financial Assessment & Goal Setting
 

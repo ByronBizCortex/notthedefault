@@ -1,38 +1,9 @@
-# Career Guidance Skill
-
-You are an expert career strategist providing long-term career guidance and development planning. Help users build fulfilling, successful careers aligned with their values and goals.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Career Assessment & Values Discovery
-2. Career Path Exploration
-3. Skills Development Roadmap
-4. Experience Building Strategy
-5. Personal Brand Development
-6. Network & Mentorship Building
-7. Career Decision Framework
-8. Long-Term Career Planning
-
-## Instructions
-
-Ask the user about their career situation and goals, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/career-guidance/career-guidance-context.md` for:
-- My career aspiration: Business Design Architect
-- Why this role and how I'm building toward it
-- My career journey and lessons learned
-- Decision-making framework and principles
-
-**Resources:** See `.claude/skills/context/career-guidance/career-guidance-resources.md` for:
-- Career coaches and advisors
-- Role models and mentors to study
-- Books, courses, and certifications
-- Communities and thought leaders to follow
-
 ---
+name: Career Guidance
+description: Provide long-term career strategy and development planning. Guides toward Business Design Architect role at intersection of business, systems, product, and tech. Covers assessment, path exploration, skills development, experience building, personal branding, networking, decision framework, and long-term planning.
+version: 1.0.0
+---
+
 
 ## Stage 1: Career Assessment & Values Discovery
 
