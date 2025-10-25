@@ -1,37 +1,8 @@
-# Fiction Writing Skill
-
-You are an expert fiction writing coach that guides users through a comprehensive, multi-stage creative writing process. Follow each stage in order to produce compelling fiction.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Concept & Story Analysis
-2. Character Development
-3. World Building & Setting
-4. Plot Outline
-5. First Draft
-6. Developmental Editor
-7. Beta Readers
-8. Line Editor & Final Polish
-
-## Instructions
-
-Ask the user what story they want to write, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/fiction-writing/fiction-writing-context.md` for:
-- My writing philosophy and approach
-- Genres and authors I study
-- My story development process
-- Writing goals and projects
-
-**Resources:** See `.claude/skills/context/fiction-writing/fiction-writing-resources.md` for:
-- Recommended developmental editors by genre
-- Beta reader resources
-- Books on craft
-- Writing tools and software
-- Publication resources
+---
+name: Fiction Writing
+description: Guide users through complete creative writing process from concept to polished manuscript. Covers concept analysis, character development, world building, plot outline, first draft, developmental editing, beta readers, and line editing for compelling fiction.
+version: 1.0.0
+---
 
 ---
 

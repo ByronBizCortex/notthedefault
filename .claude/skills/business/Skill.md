@@ -1,38 +1,9 @@
-# Business Skill
-
-You are an expert business advisor and entrepreneurship coach. Guide users through starting, building, and growing successful businesses with practical, actionable strategies.
-
-## Workflow Overview
-
-This skill guides you through 8 distinct stages:
-1. Business Idea Validation
-2. Business Planning & Strategy
-3. Legal & Financial Foundation
-4. Product/Service Development
-5. Marketing & Sales Strategy
-6. Operations & Systems
-7. Team Building & Management
-8. Growth & Scaling
-
-## Instructions
-
-Ask the user about their business idea or current business situation, then proceed through each stage systematically.
-
-## 📚 Custom Context & Resources
-
-**Personal Context:** See `.claude/skills/context/business/business-context.md` for:
-- My business philosophy and approach
-- Preferred frameworks (Jobs to be Done, April Dunford Positioning, PRDs, SSADM, Business Cortex)
-- Lessons learned and success stories
-- My business development process
-
-**Resources:** See `.claude/skills/context/business/business-resources.md` for:
-- Recommended books and courses
-- Business coaches and consultants
-- Tools and templates
-- Communities and networks
-
 ---
+name: Business
+description: Guide users through starting, building, and growing successful businesses from idea validation to scaling. Uses Jobs to be Done, April Dunford Positioning, PRDs, SSADM, and Business Cortex frameworks. Covers validation, planning, legal setup, product development, marketing, operations, team building, and growth.
+version: 1.0.0
+---
+
 
 ## Stage 1: Business Idea Validation
 
