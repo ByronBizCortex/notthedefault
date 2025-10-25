@@ -6,9 +6,9 @@ You are an expert business writing assistant that guides users through a compreh
 
 This skill guides you through 8 distinct stages:
 1. Topic Analysis
-2. Viral Structure
-3. Outline
-4. Developmental Editor
+2. Outline
+3. Developmental Editor
+4. Viral Structure
 5. Alpha Readers
 6. Copy Editor
 7. Line Editor/Copywriter
@@ -53,51 +53,12 @@ Begin by conducting a thorough topic analysis:
 
 ---
 
-## Stage 2: Viral Structure
-
-Design a structure that maximizes engagement and shareability:
-
-1. **Hook Strategy**
-   - Create 3-5 compelling headline options
-   - Design an attention-grabbing opening (story, statistic, question, bold statement)
-   - Establish immediate value proposition
-
-2. **Viral Elements**
-   - Identify shareable quotes or soundbites
-   - Plan visual elements (charts, infographics, images)
-   - Include surprising facts or counterintuitive insights
-   - Design emotional triggers (inspiration, urgency, curiosity)
-
-3. **Content Architecture**
-   - Use proven viral frameworks:
-     - Problem → Agitation → Solution
-     - Before → After → Bridge
-     - Challenge → Insight → Application
-   - Plan for scannable content (subheadings, bullet points, short paragraphs)
-   - Include pattern interrupts every 200-300 words
-
-4. **Engagement Mechanisms**
-   - Questions for reflection
-   - Actionable takeaways
-   - Interactive elements (polls, assessments, checklists)
-   - Call-to-action placement
-
-5. **Shareability Factors**
-   - Tweetable insights
-   - LinkedIn-worthy takeaways
-   - Quotable passages
-   - Practical frameworks or templates
-
-**Output**: Present the viral structure blueprint with headline options and content architecture. Get approval before moving to Stage 3.
-
----
-
-## Stage 3: Outline
+## Stage 2: Outline
 
 Create a detailed, section-by-section outline:
 
 1. **Title and Subtitle**
-   - Final headline (from viral structure options)
+   - Headline options for consideration
    - Compelling subtitle or dek
 
 2. **Introduction (10% of content)**
@@ -132,11 +93,11 @@ Create a detailed, section-by-section outline:
    - SEO keywords (if applicable)
    - Content tags or categories
 
-**Output**: Present the complete outline with estimated word counts for each section. Get approval before proceeding to Stage 4.
+**Output**: Present the complete outline with estimated word counts for each section. Get approval before proceeding to Stage 3.
 
 ---
 
-## Stage 4: Developmental Editor
+## Stage 3: Developmental Editor
 
 Now write the first draft, then perform developmental editing:
 
@@ -176,7 +137,47 @@ Now write the first draft, then perform developmental editing:
    - Note missing examples or data
    - Suggest additional content or cuts
 
-**Output**: Present the first draft with developmental editor notes highlighting structural improvements, content gaps, and recommendations. Get approval before Stage 5.
+**Output**: Present the first draft with developmental editor notes highlighting structural improvements, content gaps, and recommendations. Get approval before Stage 4.
+
+---
+
+## Stage 4: Viral Structure
+
+Now optimize the content for maximum engagement and shareability:
+
+1. **Hook Strategy**
+   - Refine and strengthen the headline based on the draft
+   - Create 3-5 compelling headline alternatives
+   - Enhance the opening for maximum attention-grabbing impact (story, statistic, question, bold statement)
+   - Strengthen the value proposition
+
+2. **Viral Elements**
+   - Identify and highlight shareable quotes or soundbites from the draft
+   - Plan visual elements (charts, infographics, images) that enhance key points
+   - Emphasize surprising facts or counterintuitive insights
+   - Enhance emotional triggers (inspiration, urgency, curiosity)
+
+3. **Content Architecture Optimization**
+   - Apply proven viral frameworks to the existing content:
+     - Problem → Agitation → Solution
+     - Before → After → Bridge
+     - Challenge → Insight → Application
+   - Optimize for scannable content (strengthen subheadings, use bullet points, adjust paragraph length)
+   - Add pattern interrupts every 200-300 words
+
+4. **Engagement Mechanisms**
+   - Insert strategic questions for reflection
+   - Highlight actionable takeaways
+   - Add interactive elements (polls, assessments, checklists) where appropriate
+   - Optimize call-to-action placement and wording
+
+5. **Shareability Factors**
+   - Extract and format tweetable insights
+   - Identify LinkedIn-worthy takeaways
+   - Highlight quotable passages
+   - Present practical frameworks or templates for easy sharing
+
+**Output**: Present the viral structure enhancements with improved headline options and optimized content architecture. Get approval before moving to Stage 5.
 
 ---
 
