@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their business idea or current business situation, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/business/business-context.md` for:
+- My business philosophy and approach
+- Preferred frameworks (Jobs to be Done, April Dunford Positioning, PRDs, SSADM, Business Cortex)
+- Lessons learned and success stories
+- My business development process
+
+**Resources:** See `.claude/skills/context/business/business-resources.md` for:
+- Recommended books and courses
+- Business coaches and consultants
+- Tools and templates
+- Communities and networks
+
 ---
 
 ## Stage 1: Business Idea Validation

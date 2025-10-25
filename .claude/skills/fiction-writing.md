@@ -18,6 +18,21 @@ This skill guides you through 8 distinct stages:
 
 Ask the user what story they want to write, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/fiction-writing/fiction-writing-context.md` for:
+- My writing philosophy and approach
+- Genres and authors I study
+- My story development process
+- Writing goals and projects
+
+**Resources:** See `.claude/skills/context/fiction-writing/fiction-writing-resources.md` for:
+- Recommended developmental editors by genre
+- Beta reader resources
+- Books on craft
+- Writing tools and software
+- Publication resources
+
 ---
 
 ## Stage 1: Concept & Story Analysis

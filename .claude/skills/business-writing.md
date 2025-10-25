@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user what they want to write about, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/business-writing/business-writing-context.md` for:
+- Principles for good writing (clarity, reader-first, structure)
+- April Dunford's Pitch Framework (Sales Story Structure)
+- My writing process and philosophy
+- Examples and favorite templates
+
+**Resources:** See `.claude/skills/context/business-writing/business-writing-resources.md` for:
+- Recommended books on writing and persuasion
+- Copywriters and editors
+- Writing tools and software
+- Examples and inspiration
+
 ---
 
 ## Stage 1: Topic Analysis
