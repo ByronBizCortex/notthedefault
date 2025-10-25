@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their career situation and goals, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/career-guidance/career-guidance-context.md` for:
+- My career aspiration: Business Design Architect
+- Why this role and how I'm building toward it
+- My career journey and lessons learned
+- Decision-making framework and principles
+
+**Resources:** See `.claude/skills/context/career-guidance/career-guidance-resources.md` for:
+- Career coaches and advisors
+- Role models and mentors to study
+- Books, courses, and certifications
+- Communities and thought leaders to follow
+
 ---
 
 ## Stage 1: Career Assessment & Values Discovery

@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their financial situation and goals, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/personal-finances/personal-finances-context.md` for:
+- Dave Ramsey's Baby Steps framework (my foundation)
+- Why I follow Dave's debt-free, behavior-focused approach
+- My progress through the Baby Steps
+- Personal financial philosophy and rules
+
+**Resources:** See `.claude/skills/context/personal-finances/personal-finances-resources.md` for:
+- Dave Ramsey's books, shows, and tools (EveryDollar app, Financial Peace University)
+- SmartVestor Pros and financial advisors
+- Budget and investment tools
+- Community and support resources
+
 ---
 
 ## Stage 1: Financial Assessment & Goal Setting

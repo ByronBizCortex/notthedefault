@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their relationship situation and goals, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/relationships/relationships-context.md` for:
+- Crucial Conversations framework (my foundation for difficult talks)
+- The 7 tools: Start with Heart, Learn to Look, Make it Safe, Master My Stories, STATE My Path, Explore Others' Paths, Move to Action
+- How I apply this to relationships
+- My relationship philosophy and patterns
+
+**Resources:** See `.claude/skills/context/relationships/relationships-resources.md` for:
+- Crucial Conversations books and training
+- Recommended couples therapists and coaches
+- Books on communication and intimacy
+- Assessment tools and workshops
+
 ---
 
 ## Stage 1: Self-Awareness & Relationship Readiness

@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their job search goals, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/job-search/job-search-context.md` for:
+- My career story and background
+- What I'm looking for in my next role
+- Lessons from past job searches
+- My unique value proposition
+
+**Resources:** See `.claude/skills/context/job-search/job-search-resources.md` for:
+- Recommended job coaches and resume writers
+- Job boards and platforms
+- Recruiters and staffing firms
+- Target companies and contacts
+
 ---
 
 ## Stage 1: Self-Assessment & Career Clarity

@@ -18,6 +18,20 @@ This skill guides you through 8 distinct stages:
 
 Ask the user about their current role and performance goals, then proceed through each stage systematically.
 
+## 📚 Custom Context & Resources
+
+**Personal Context:** See `.claude/skills/context/job-coaching/job-coaching-context.md` for:
+- Andrew LaCivita's CAAR Framework (Challenge-Action-Approach-Results)
+- Why I love Andrew's high-energy, practical approach
+- My CAAR story bank and examples
+- Performance review and advancement strategies
+
+**Resources:** See `.claude/skills/context/job-coaching/job-coaching-resources.md` for:
+- Andrew LaCivita's content (YouTube, website, books)
+- Other recommended coaches
+- Performance tracking tools and templates
+- Books and courses on excellence
+
 ---
 
 ## Stage 1: Performance Assessment & Feedback Analysis
